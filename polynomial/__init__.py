@@ -1,0 +1,1 @@
+from abstract.polynomial.polynomial import*
